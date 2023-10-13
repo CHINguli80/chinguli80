@@ -17,6 +17,8 @@
 
 </picture>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHINguli80&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="morais-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="morais-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">

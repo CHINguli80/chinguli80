@@ -4,20 +4,12 @@
 - 🌱 Estudando TypScript
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CHINguli80&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CHINguli80&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-
-</picture>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHINguli80&exclude_repo=github-readme-stats,anuraghazra.github.io)
+<div align="center">
+  <a href="https://github.com/CHINguli80">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moraisdomingos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHINguli80&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="morais-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

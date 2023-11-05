@@ -1,6 +1,6 @@
 ## Hello!! Eu sou o Morais Domingos
 
-- 🔭 Trabalho com front-End
+- 🔭 Procurando Emprego com dev BackEnd
 - 🌱 Estudando TypScript
 
 <div align="center">
